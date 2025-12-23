@@ -1,0 +1,7 @@
+{
+  "name": "kshop ",
+  "description": "Hệ thống bán lẻ Flycam và Action Cam chuyên nghiệp KIÊN DRONE với thiết kế hiện đại và dịch vụ tận tâm.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}

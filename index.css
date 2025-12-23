@@ -1,0 +1,8 @@
+/* Main Styles */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+    --primary-blue: #1e3a8a;
+}
